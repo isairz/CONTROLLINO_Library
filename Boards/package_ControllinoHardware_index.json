@@ -197,7 +197,7 @@
         {
           "name": "CONTROLLINO Boards",
           "architecture": "avr",
-          "version": "3.1.0",
+          "version": "3.1.0-applesilicon",
           "category": "Contributed",
           "url": "https://github.com/CONTROLLINO-PLC/CONTROLLINO_Library/raw/master/Boards/ControllinoHW.zip",
           "archiveFileName": "ControllinoHW.zip",
@@ -221,7 +221,7 @@
             {
               "packager": "arduino",
               "name": "avrdude",
-              "version": "6.3.0-arduino8"
+              "version": "6.3.0-arduino17"
             }
           ]
         } 
